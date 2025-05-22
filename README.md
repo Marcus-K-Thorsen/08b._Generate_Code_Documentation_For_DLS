@@ -22,3 +22,12 @@ You are free to use others but this if just for reference.
 | PHP         | phpDocumentor, ApiGen                  |
 | Python      | Sphinx, PyDoc, MkDocs                  |
 | Ruby        | RDoc, YARD                             |
+
+
+## Static hosting of Generated Code Documentation for DLS (Customer Microservice)
+
+[View the generated code documentation here.](https://marcus-k-thorsen.github.io/08b._Generate_Code_Documentation_For_DLS/)
+
+[View the Code Documentation generation project within the KEA Car Microservice.](https://github.com/Marcus-K-Thorsen/kea_car_microservices/tree/main/code_documentation)
+
+[View the Customer Microservice project the code documentation is generated from.](https://github.com/Marcus-K-Thorsen/kea_car_microservices/tree/main/customer_microservice)
