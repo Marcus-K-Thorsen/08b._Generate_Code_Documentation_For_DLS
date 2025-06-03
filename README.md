@@ -20,7 +20,7 @@ You are free to use others but this if just for reference.
 | Java        | Javadoc, Doclet, Doxygen               |
 | JavaScript  | JSDoc, ESDoc, Docco                    |
 | PHP         | phpDocumentor, ApiGen                  |
-| Python      | Sphinx, PyDoc, MkDocs                  |
+| Python      | **Sphinx**, PyDoc, MkDocs              |
 | Ruby        | RDoc, YARD                             |
 
 
